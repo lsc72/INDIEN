@@ -1,4 +1,4 @@
-# A la recherche de l'Indien
+# Sur la piste de l'Indien
 
 Dans un premier temps, l'objectif est d'accéder au territoire de l'Indien. 
 
