@@ -1,4 +1,4 @@
-Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver son portrait P ?.
+Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver son portrait P ?
 
 Pour retrouver P, l'Indien vous a laissé une autre recette indienne :
 ````
