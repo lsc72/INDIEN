@@ -1,8 +1,8 @@
 Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver son portrait P ?  
 Pour retrouver P, l'Indien vous a laissé une autre recette :    
 
-__Prendre le nombre N composé des 4 chiffres de votre date de naissance (par exemple : 0105 si vous êtes né un 1er mai)__  
-__puis effectuer les étapes suivantes :__
+__Prendre le nombre N composé des 4 chiffres de votre date de naissance (par exemple : 0105 si vous êtes né un 1er mai), 
+puis effectuer les étapes suivantes :__
 ````
     a) Ordonner les chiffres de N en ordre décroissant pour former un nouveau nombre appelé MAX
     b) Ordonner les chiffres de N en ordre croissant pour former un nouveau nombre appelé MIN
