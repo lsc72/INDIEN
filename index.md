@@ -10,4 +10,5 @@ c) Effectuer la soustraction MAX - MIN, ce qui donne un nouveau nombre N
 ````
 __Répéter les étapes a, b et c jusqu'à obtenir un nombre N identique au précédent.__  
 
-Dans votre navigateur, valider l'adresse https://lsc72.github.io/indien/N en remplaçant N par la valeur trouvée.
+Dans votre navigateur, valider l'adresse  ```https://lsc72.github.io/indien/N```  
+en remplaçant N par la valeur trouvée.
