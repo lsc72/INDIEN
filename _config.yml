@@ -1,4 +1,8 @@
 baseurl: /
+font:
+  family: Comic Sans MS
+  sizes:
+    base: 14px
 title: Sur la piste de l'Indien ...
 # description: Un site créé avec Jekyll sur GitHub Pages
 theme: jekyll-theme-slate
