@@ -6,7 +6,7 @@ __Choisir un nombre N entre 100 et 998 avec 3 chiffres différents puis effectue
 ````
 a) Ordonner les chiffres de N en ordre décroissant pour former un nouveau nombre appelé MAX
 b) Ordonner les chiffres de N en ordre croissant pour former un nouveau nombre appelé MIN
-c) Effectuer la soustraction MAX - MIN, ce qui donne un nouveau nombre N
+c) Effectuer la soustraction MAX - MIN, ce qui doit donner un nouveau nombre N à 3 chiffres
 ````
 __Répéter les étapes a, b et c jusqu'à obtenir un nombre N identique au précédent.__  
 
