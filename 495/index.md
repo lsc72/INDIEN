@@ -1,4 +1,4 @@
-Bravo, vous êtes maintenant dans le domaine de l'Indien. Il vous faut maintenant télécharger sa page P.
+Bravo, vous êtes maintenant sur le territoire de l'Indien. Il vous faut maintenant télécharger sa page P.
 
 Pour retrouver P, l'Indien vous a laissé une autre recette indienne :
 ````
@@ -14,4 +14,4 @@ puis effectuer les étapes a, b et c :
 
 Vous devez répéter les étapes a, b et c jusqu'à obtenir un nombre N identique au précédent.
 ````
-Dans votre navigateur, valider l'adresse https://lsc72.github.io/INDIEN/495/P.html en remplaçant N par la valeur trouvée.
+Dans votre navigateur, valider l'adresse https://lsc72.github.io/INDIEN/495/P.html en remplaçant P par la valeur de N.
