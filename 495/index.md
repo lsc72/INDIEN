@@ -1,5 +1,5 @@
 Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver son portrait P ?  
-Pour retrouver P, l'Indien vous a laissé une autre recette :    
+Pour ce faire, l'Indien vous a laissé une autre recette :    
 
 __Prendre le nombre N composé des 4 chiffres de votre date de naissance (par exemple : 0105 si vous êtes né un 1er mai), 
 puis effectuer les étapes suivantes :__
@@ -10,4 +10,5 @@ puis effectuer les étapes suivantes :__
 ````
 __Vous devez répéter les étapes a, b et c jusqu'à obtenir un nombre N identique au précédent.__  
 
-Dans votre navigateur, valider l'adresse https://lsc72.github.io/INDIEN/495/P en remplaçant P par la valeur de N.
+Dans votre navigateur, valider l'adresse  ```https://lsc72.github.io/indien/495/P```  
+en remplaçant P par la valeur de N.
