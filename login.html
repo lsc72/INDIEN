@@ -91,6 +91,11 @@
                 errorMessage.style.display = "block";
                 return false; // Empêcher la soumission du formulaire
             }
+            if (username !== "indien") {
+                errorMessage.textContent = "utilisateur inconnu.";
+                errorMessage.style.display = "block";
+                return false; // Empêcher la soumission du formulaire
+            }
 
             // Masquer le message d'erreur si tout est ok
             errorMessage.style.display = "none";
