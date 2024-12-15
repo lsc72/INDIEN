@@ -54,7 +54,7 @@
 
     <div class="form-container">
         <h2>Authentification</h2>
-        <form id="loginForm" onsubmit="return validateForm()">
+        <form id="loginForm" onsubmit="return validateForm()" action="./495">
             <label for="username">Nom d'utilisateur</label>
             <input type="text" id="username" name="username" placeholder="Entrez votre nom d'utilisateur" required>
             
@@ -100,8 +100,8 @@
             errorMessage.style.display = "none";
             // Redirection vers une page de succès (success.html) après authentification réussie
             alert("ok ok");
-            window.location.href = "https://lsc72.github.io/indien/index.md";
-            // return true; // Permettre la soumission du formulaire
+            // window.location.href = "https://lsc72.github.io/indien/index.md";
+            return true; // Permettre la soumission du formulaire
             // Masquer le message d'erreur si tout est ok
         }
     </script>
