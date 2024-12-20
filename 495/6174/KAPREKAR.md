@@ -1,4 +1,5 @@
-Voilà, vous connaissez maintenant le nom et le visage de l'Indien !
+![KAPREKAR](https://lsc72.github.io/indien/495/6174.png)
+Voilà, vous connaissez maintenant l'Indien !
 
 Pour en savoir davantage sur ce personnage, un dernier défi :  
 - [téléchargez ce fichier](https://lsc72.github.io/indien/495/6174/KAPREKAR.zip) et dézippez-le
