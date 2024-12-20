@@ -1,4 +1,4 @@
-Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver son portrait P ?  
+Bravo, vous êtes maintenant sur le territoire de l'Indien. Saurez-vous retrouver sa page web ?  
 Pour ce faire, l'Indien vous a laissé une autre recette :    
 
 __Choisir un nouveau nombre N composé des 4 chiffres de votre date de naissance (par exemple : 0105 si vous êtes né un 1er mai), 
