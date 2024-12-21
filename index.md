@@ -1,4 +1,4 @@
-<img src="qrc.png" width="100" height="100">
+<img src="qrc.png" width="100" height="100" style="float:left; margin-right:10px;">
 Dans un premier temps, l'objectif est d'accéder au territoire de l'Indien.  
 Pour y parvenir, il vous faut trouver la valeur d'un nombre N en utilisant une vieille recette indienne que voici :  
 
